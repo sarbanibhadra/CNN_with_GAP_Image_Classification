@@ -1,4 +1,4 @@
-# CNN_with_Global_Average_Pooling
+# CNN_with_Global_Average_Pooling- For Image Classification
 
 CNN FOR IMAGE CLASSIFICATION
 Convolutional Neural Networks: Custom Implementation vs Transfer Learning
